@@ -1,5 +1,5 @@
 
-[![MasterHead(https://www.monocubed.com/wp-content/uploads/2022/10/Full-stack-web-development.jpg)]
+[![MasterHead(https://www.monocubed.com/wp-content/uploads/2022/10/Full-stack-web-development.jpg)
 <h1 align="center">Hi 👋, I'm Avinash Savita</h1>
 <h3 align="center">full stack developer || CYBER HACKER</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
